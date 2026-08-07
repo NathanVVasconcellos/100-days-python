@@ -1,0 +1,8 @@
+print("Secund Project")
+print("Nathan Vasconcellos Vicente")
+print("Conversa")
+print("Andrews:Ola Bia, Tudo bem?")
+print("Bia:Tudo bem sim, e com vc?")
+print("Andrews:Que bom, estou bem tbm")
+print("Andrews:Faz o de bom aqui?")
+print("Bia:Estou apenas passeando com meu cachorro")
