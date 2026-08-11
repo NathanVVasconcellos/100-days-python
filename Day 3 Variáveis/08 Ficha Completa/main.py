@@ -1,0 +1,6 @@
+nome = input ("Qual o seu nome? ")
+sobrenome = input ("Qual o seu sobrenome? ")
+data_de_nascimento = input ("Qual sua data de nascimento? ")
+print ("Seja bem-vindo(a) " + nome + " " + sobrenome)
+print ("Dados: ")
+print (nome + " " + sobrenome + " " + data_de_nascimento)
